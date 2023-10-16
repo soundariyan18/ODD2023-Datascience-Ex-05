@@ -82,3 +82,13 @@ df
 OUTPUT:
 
 ![MODEL](https://user-images.githubusercontent.com/121222763/272937238-cb5339d6-d0c8-451e-9892-d67d3973888c.png)
+
+![MODEL](https://user-images.githubusercontent.com/121222763/272939326-5ad23f86-e352-4aa2-a947-7e6f74c6fd32.png)
+
+![MODEL](https://user-images.githubusercontent.com/121222763/272939683-f35107b7-61a9-4504-ab31-37631939a078.png)
+
+![MODEL](https://user-images.githubusercontent.com/121222763/272939939-8352a24d-b87d-4eac-b14b-e6851d0c8e72.png)
+
+![MODEL](https://user-images.githubusercontent.com/121222763/272939939-8352a24d-b87d-4eac-b14b-e6851d0c8e72.png)
+
+![MODEL](https://user-images.githubusercontent.com/121222763/272940177-fee61260-15b8-49ff-8871-398abeb5bc14.png)
