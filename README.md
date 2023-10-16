@@ -1,4 +1,4 @@
-![image](https://github.com/soundariyan18/ODD2023-Datascience-Ex-05/assets/119393307/7063a813-0df1-4718-9fac-49c309ce8fcf)# Ex:05 Feature Generation
+# Ex:05 Feature Generation
 
 AIM:
 
@@ -81,4 +81,4 @@ df
 
 OUTPUT:
 
-![MODEL](![Uploading image.png…])
+![MODEL](https://user-images.githubusercontent.com/121222763/272937238-cb5339d6-d0c8-451e-9892-d67d3973888c.png)
