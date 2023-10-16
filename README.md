@@ -92,3 +92,7 @@ OUTPUT:
 ![MODEL](https://user-images.githubusercontent.com/121222763/272939939-8352a24d-b87d-4eac-b14b-e6851d0c8e72.png)
 
 ![MODEL](https://user-images.githubusercontent.com/121222763/272940177-fee61260-15b8-49ff-8871-398abeb5bc14.png)
+
+RESULT:
+
+Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
