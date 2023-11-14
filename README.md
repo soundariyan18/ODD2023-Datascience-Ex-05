@@ -1,14 +1,14 @@
 # Ex:05 Feature Generation
 
-AIM:
+## AIM:
 
 To read the given data and perform Feature Generation process and save the data to a file.
 
-EXPLANATION:
+## EXPLANATION:
 
 Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target.
 
-ALGORITHM:
+## ALGORITHM:
 
 STEP 1
 
@@ -31,7 +31,7 @@ Developed by: soundariyan
 reg: 212222230146
 
 
-PROGRAM:
+## PROGRAM:
 ```
 import pandas as pd
 from scipy import stats
@@ -79,7 +79,7 @@ df=pd.DataFrame(rs.fit_transform(df),columns=['Height','Weight','Index'])
 df
 ```
 
-OUTPUT:
+## OUTPUT:
 
 ![MODEL](https://user-images.githubusercontent.com/121222763/272937238-cb5339d6-d0c8-451e-9892-d67d3973888c.png)
 
@@ -93,6 +93,6 @@ OUTPUT:
 
 ![MODEL](https://user-images.githubusercontent.com/121222763/272940177-fee61260-15b8-49ff-8871-398abeb5bc14.png)
 
-RESULT:
+## RESULT:
 
 Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
